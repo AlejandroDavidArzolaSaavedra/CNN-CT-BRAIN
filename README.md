@@ -13,6 +13,12 @@
 
 <br><br>
 
+# 👥 Equipo de desarrollo (Ctrl + Click para ver los perfiles)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Andrea%20Santana%20Lopez-purple?style=flat-square&logo=github)](https://github.com/AndreaSantalos)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Alejandro%20David%20Arzola%20Saavedra-blue?style=flat-square&logo=github)](https://github.com/AlejandroDavidArzolaSaavedra)
+
 ## Resumen del conjunto de datos
 
 El conjunto de datos abarca escaneos cerebrales de TC que presentan instancias de cáncer, tumores y aneurismas. Estos escaneos sirven como un recurso valioso para el desarrollo y la evaluación de algoritmos basados en computadora, modelos de aprendizaje automático y técnicas de aprendizaje profundo. El objetivo principal es automatizar la detección, diagnóstico y clasificación de condiciones cerebrales.
