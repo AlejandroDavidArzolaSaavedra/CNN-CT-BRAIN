@@ -63,6 +63,4 @@ El conjunto de datos está organizado en dos carpetas principales:
 
 # 🤝 Contribuciones
 
-Si deseas contribuir a este proyecto, siéntete libre de hacerlo. Puedes abrir problemas (issues) o enviar solicitudes de extracción (pull requests) para mejorar el código o agregar nuevas características. ¡Tu colaboración es bienvenida!
-
-¡Feliz codificación y mucha suerte con tus proyectos que utilizan el conjunto de datos CNN-CT-BRAIN! 🚀
+Si deseas contribuir a este proyecto, siéntete libre de hacerlo. Puedes abrir problemas (issues) o enviar solicitudes de extracción (pull requests) para mejorar el código o agregar nuevas características. ¡Tu colaboración es bienvenida! 🚀
