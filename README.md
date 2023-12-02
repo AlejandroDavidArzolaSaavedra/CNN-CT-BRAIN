@@ -1,4 +1,4 @@
-<h1 align="center">CNN-CT-BRAIN 🧠</h1>
+<h1 align="center">¡Bienvenido al proyecto CNN-CT-BRAIN! 🧠</h1>
 
 <ul align="center">		
   <a href="https://www.kaggle.com/datasets/trainingdatapro/computed-tomography-ct-of-the-brain" target="_blank">
@@ -9,7 +9,7 @@
 ## 👩‍🔬 Clasificación y detección de cáncer, tumores y aneurismas
 
 <img align="left" width="250" height="180" src="https://i.imgur.com/RsmO2hP.gif?raw=true"></a>
-¡Bienvenido al proyecto CNN-CT-BRAIN! Este repositorio contiene un conjunto de datos de escáneres cerebrales de tomografía computarizada (TC) diseñado para facilitar la investigación en neurología, radiología y oncología. El conjunto de datos proporciona imágenes detalladas del cerebro de los pacientes capturadas mediante escáneres de tomografía computarizada. Los datos están disponibles en dos formatos: .jpg y .dcm.
+Este repositorio contiene un conjunto de datos de escáneres cerebrales de tomografía computarizada (TC) diseñado para facilitar la investigación en neurología, radiología y oncología. El conjunto de datos proporciona imágenes detalladas del cerebro de los pacientes capturadas mediante escáneres de tomografía computarizada.
 
 <br><br>
 
@@ -21,8 +21,9 @@
 
 ## 🕵🏻 Resumen del conjunto de datos
 <p color="blue">
-El conjunto de datos abarca escaneos cerebrales de TC que presentan instancias de cáncer, tumores y aneurismas. Estos escaneos sirven como un recurso valioso para el desarrollo y la evaluación de algoritmos basados en computadora, modelos de aprendizaje automático y técnicas de aprendizaje profundo. El objetivo principal es automatizar la detección, diagnóstico y clasificación de condiciones cerebrales.
+Este proyecto se centra en el desarrollo de un modelo de clasificación para detectar enfermedades cerebrales, como cáncer, tumores y aneurismas, a partir de escáneres cerebrales de tomografía computarizada (TC).
 </p>
+
 ### 💉 Tipos de enfermedades cerebrales en el conjunto de datos
 
 1. **Cáncer**: Escaneos de TC que muestran manifestaciones de cáncer en el cerebro.
@@ -33,11 +34,13 @@ El conjunto de datos abarca escaneos cerebrales de TC que presentan instancias d
 
 ## Uso
 
-Los investigadores y desarrolladores pueden aprovechar este conjunto de datos para varios propósitos, como:
+Este conjunto de datos proporciona una valiosa fuente de información para investigadores y desarrolladores interesados en el análisis de imágenes médicas y la detección de enfermedades cerebrales. Algunos usos potenciales incluyen:
 
-- Entrenamiento y ajuste fino de redes neuronales convolucionales (CNN) para la detección de enfermedades cerebrales.
-- Evaluación del rendimiento de modelos de aprendizaje automático en la identificación de cáncer, tumores y aneurismas.
-- Experimentación con técnicas de aprendizaje profundo para la segmentación precisa de áreas afectadas.
+- Evaluación del Rendimiento de Modelos de Aprendizaje Automático
+- Entrenamiento y Ajuste Fino de Modelos de Aprendizaje Profundo
+- Experimentación con Técnicas de Aprendizaje Profundo
+
+ 
 
 ## 📊 Estructura del conjunto de datos
 
