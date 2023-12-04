@@ -40,7 +40,19 @@ Este conjunto de datos proporciona una valiosa fuente de información para inves
 - Entrenamiento y Ajuste Fino de Modelos de Aprendizaje Profundo
 - Experimentación con Técnicas de Aprendizaje Profundo
 
+
+## 📖 Librerías de CNN-CT-BRAIN 
+
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow)](Link_A_Tu_Pagina_De_TensorFlow)
+[![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy)](Link_A_Tu_Pagina_De_NumPy)
+[![tqdm](https://img.shields.io/badge/tqdm-%23000000?style=for-the-badge&logo=tqdm)](Link_A_Tu_Pagina_De_tqdm)
+[![scikit-learn](https://img.shields.io/badge/scikit_learn-%23F7931E?style=for-the-badge&logo=scikit-learn)](Link_A_Tu_Pagina_De_scikit-learn)
+[![Plotly](https://img.shields.io/badge/Plotly-%233F4F75?style=for-the-badge&logo=plotly)](Link_A_Tu_Pagina_De_Plotly)
+[![OpenCV](https://img.shields.io/badge/OpenCV-%23FD8C00?style=for-the-badge&logo=opencv)](Link_A_Tu_Pagina_De_OpenCV)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-%230C977D?style=for-the-badge&logo=matplotlib)](Link_A_Tu_Pagina_De_Matplotlib)
+[![Pydicom](https://img.shields.io/badge/Pydicom-%23191919?style=for-the-badge&logo=python)](Link_A_Tu_Pagina_De_Pydicom)
  
+
 
 ## 📊 Estructura del conjunto de datos
 
