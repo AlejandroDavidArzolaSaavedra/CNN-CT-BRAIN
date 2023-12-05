@@ -77,11 +77,11 @@ El conjunto de datos está organizado en dos carpetas principales:
 Para ejecutar este proyecto, necesitarás seguir los siguientes pasos:
 
 1. **Descargar el conjunto de datos:**
-   - Visita la página del conjunto de datos en Kaggle: [CT Scan Images of the Brain](https://www.kaggle.com/datasets/trainingdatapro/computed-tomography-ct-of-the-brain) y descarga el conjunto de datos.
+   - Visita la página del conjunto de datos en Kaggle: [CT Scan Images of the Brain](https://www.kaggle.com/datasets/trainingdatapro/computed-tomography-ct-of-the-brain) y descárgatelo.
 
 2. **Descomprimir y sobrescribir el archivo "archive":**
    - Descomprime el archivo ZIP descargado.
-   - Localiza el archivo llamado "archive" 🗃️ y sobrescribe este archivo en la ubicación correspondiente de tu proyecto.
+   - Localiza el archivo llamado "archive" 🗃️ y sobrescribe este archivo del proyecto.
 
 ## Empezar
 
