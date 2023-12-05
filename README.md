@@ -31,6 +31,18 @@ Este proyecto se centra en el desarrollo de un modelo de clasificación para det
 2. **Tumor**: Imágenes detalladas que capturan la presencia de tumores en el cerebro.
 
 3. **Aneurisma**: Escaneos que destacan casos de aneurismas en el cerebro.
+   
+<table align="center">
+  <tr>
+  <td width="50%">
+    <h3 align="center"> Escaneo de una persona con aneurisma, cáncer y tumor</h3>
+    <div align="center">
+      <a href="https://github.com/AlejandroDavidArzolaSaavedra/CNN-CT-BRAIN" target="_blank"><img width="800" src="https://github.com/AlejandroDavidArzolaSaavedra/CNN-CT-BRAIN/assets/90756437/ba837625-c258-422d-a6df-0f166bc8a10a" width="400" alt="Escaneo de una persona con aneurisma, cáncer y tumor"></a>
+      <p>  Nuestro enfoque en el procesamiento de imágenes nos permite ofrecer un diagnóstico preciso, facilitando un tratamiento oportuno y efectivo para mejorar la salud del paciente 🩺</p>
+    </div>
+  </td>                                                    
+</table> 
+<br>
 
 ## Uso
 
