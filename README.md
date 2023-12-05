@@ -32,6 +32,7 @@ Este proyecto se centra en el desarrollo de un modelo de clasificación para det
 
 3. **Aneurisma**: Escaneos que destacan casos de aneurismas en el cerebro.
 
+<br>
 <table align="center">
   <tr>
   <td width="50%">
