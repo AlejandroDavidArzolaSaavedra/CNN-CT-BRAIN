@@ -72,6 +72,17 @@ El conjunto de datos está organizado en dos carpetas principales:
 1. **Imágenes JPEG (.jpg) 📷**: Contiene imágenes de escaneos cerebrales de TC en formato JPEG.
 2. **Archivos DICOM (.dcm) 📁**: Contiene los mismos escaneos de TC pero en formato Digital Imaging and Communications in Medicine (DICOM).
 
+## Requisitos
+
+Para ejecutar este proyecto, necesitarás seguir los siguientes pasos:
+
+1. **Descargar el conjunto de datos:**
+   - Visita la página del conjunto de datos en Kaggle: [CT Scan Images of the Brain](https://www.kaggle.com/datasets/trainingdatapro/computed-tomography-ct-of-the-brain) y descarga el conjunto de datos.
+
+2. **Descomprimir y sobrescribir el archivo "archive":**
+   - Descomprime el archivo ZIP descargado.
+   - Localiza el archivo llamado "archive" 🗃️ y sobrescribe este archivo en la ubicación correspondiente de tu proyecto.
+
 ## Empezar
 
 1. Clona este repositorio:
