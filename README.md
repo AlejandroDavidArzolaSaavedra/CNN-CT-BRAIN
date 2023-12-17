@@ -97,5 +97,5 @@ Para ejecutar este proyecto, necesitarás seguir los siguientes pasos:
 3. Utiliza los datos para entrenar y probar tus modelos, y contribuye al avance en el análisis de imágenes médicas.
 
 # 🤝 Contribuciones
-
+<img align="left" width="200" height="180" src="https://github.com/AlejandroDavidArzolaSaavedra/CNN-CT-BRAIN/assets/90756437/3bf833fa-828e-467c-89b8-0ea4a077d3ea"></a>
 Si deseas contribuir a este proyecto, siéntete libre de hacerlo. Puedes abrir problemas (issues) o enviar solicitudes de extracción (pull requests) para mejorar el código o agregar nuevas características. ¡Tu colaboración es bienvenida! 🚀
