@@ -1,4 +1,4 @@
-<h1 align="center">¡Bienvenido al proyecto CNN-CT-BRAIN! 🧠</h1>
+<h1 align="center">Welcome to the CNN-CT-BRAIN Project! 🧠</h1>
 
 <ul align="center">		
   <a href="https://www.kaggle.com/datasets/trainingdatapro/computed-tomography-ct-of-the-brain" target="_blank">
@@ -6,96 +6,96 @@
   </a>
 </ul>
 
-## 👩‍🔬 Clasificación y detección de cáncer, tumores y aneurismas
+## 👩‍🔬 Cancer, Tumor, and Aneurysm Classification and Detection
 
 <img align="left" width="250" height="180" src="https://i.imgur.com/RsmO2hP.gif?raw=true"></a>
-Este repositorio contiene un conjunto de datos de escáneres cerebrales de tomografía computarizada (TC) diseñado para facilitar la investigación en neurología, radiología y oncología. El conjunto de datos proporciona imágenes detalladas del cerebro de los pacientes capturadas mediante escáneres de tomografía computarizada.
+This repository contains a dataset of computed tomography (CT) brain scans designed to facilitate research in neurology, radiology, and oncology. The dataset provides detailed brain images captured through CT scans.
 
-<br><br>
+<br><br><br>
 
-# 👥 Equipo de desarrollo (Ctrl + Click para ver los perfiles)
+# 👥 Development Team (Ctrl + Click to view profiles)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Andrea%20Santana%20Lopez-purple?style=flat-square&logo=github)](https://github.com/AndreaSantalos)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Alejandro%20David%20Arzola%20Saavedra-blue?style=flat-square&logo=github)](https://github.com/AlejandroDavidArzolaSaavedra)
 
-## 🕵🏻 Resumen del conjunto de datos
+## 🕵🏻 Dataset Overview
 <p color="blue">
-Este proyecto se centra en el desarrollo de un modelo de clasificación para detectar enfermedades cerebrales, como cáncer, tumores y aneurismas, a partir de escáneres cerebrales de tomografía computarizada (TC).
+This project focuses on developing a classification model to detect brain diseases, such as cancer, tumors, and aneurysms, from CT brain scans.
 </p>
 
-### 💉 Tipos de enfermedades cerebrales en el conjunto de datos
+### 💉 Types of Brain Diseases in the Dataset
 
-1. **Cáncer**: Escaneos de TC que muestran manifestaciones de cáncer en el cerebro.
+1. **Cancer**: CT scans showing manifestations of cancer in the brain.
 
-2. **Tumor**: Imágenes detalladas que capturan la presencia de tumores en el cerebro.
+2. **Tumor**: Detailed images capturing the presence of tumors in the brain.
 
-3. **Aneurisma**: Escaneos que destacan casos de aneurismas en el cerebro.
+3. **Aneurysm**: Scans highlighting cases of aneurysms in the brain.
 
 <br>
 <table align="center">
   <tr>
   <td width="50%">
-    <h3 align="center"> Escaneo de una persona con aneurisma, cáncer y tumor</h3>
+    <h3 align="center"> Scan of a person with aneurysm, cancer, and tumor</h3>
     <div align="center">
-      <a href="https://github.com/AlejandroDavidArzolaSaavedra/CNN-CT-BRAIN" target="_blank"><img width="800" src="https://github.com/AlejandroDavidArzolaSaavedra/CNN-CT-BRAIN/assets/90756437/645c003c-fd45-4f31-9152-0ef1f7c3f0dc" width="400" alt="Escaneo de una persona con aneurisma, cáncer y tumor"></a>
-      <p>  Nuestro enfoque en el procesamiento de imágenes nos permite ofrecer un diagnóstico preciso, facilitando un tratamiento oportuno y efectivo para mejorar la salud del paciente 🩺</p>
+      <a href="https://github.com/AlejandroDavidArzolaSaavedra/CNN-CT-BRAIN" target="_blank"><img width="800" src="https://github.com/AlejandroDavidArzolaSaavedra/CNN-CT-BRAIN/assets/90756437/645c003c-fd45-4f31-9152-0ef1f7c3f0dc" width="400" alt="Scan of a person with aneurysm, cancer, and tumor"></a>
+      <p>Our focus on image processing allows us to provide accurate diagnosis, facilitating timely and effective treatment to improve patient health 🩺</p>
     </div>
   </td>                                                    
 </table> 
 <br>
 
-## Uso
+## Usage
 
-Este conjunto de datos proporciona una valiosa fuente de información para investigadores y desarrolladores interesados en el análisis de imágenes médicas y la detección de enfermedades cerebrales. Algunos usos potenciales incluyen:
+This dataset provides a valuable source of information for researchers and developers interested in medical image analysis and brain disease detection. Some potential uses include:
 
-- Evaluación del Rendimiento de Modelos de Aprendizaje Automático
-- Entrenamiento y Ajuste Fino de Modelos de Aprendizaje Profundo
-- Experimentación con Técnicas de Aprendizaje Profundo
+- Evaluation of Machine Learning Model Performance
+- Training and Fine-Tuning Deep Learning Models
+- Experimentation with Deep Learning Techniques
 
 
-## 📖 Librerías de CNN-CT-BRAIN 
+## 📖 CNN-CT-BRAIN Libraries 
 
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow)](Link_A_Tu_Pagina_De_TensorFlow)
-[![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy)](Link_A_Tu_Pagina_De_NumPy)
-[![tqdm](https://img.shields.io/badge/tqdm-%23000000?style=for-the-badge&logo=tqdm)](Link_A_Tu_Pagina_De_tqdm)
-[![scikit-learn](https://img.shields.io/badge/scikit_learn-%23191919?style=for-the-badge&logo=scikit-learn)](Link_A_Tu_Pagina_De_scikit_learn)
-[![OpenCV](https://img.shields.io/badge/OpenCV-%23FD8C00?style=for-the-badge&logo=opencv)](Link_A_Tu_Pagina_De_OpenCV)
-[![Pydicom](https://img.shields.io/badge/Pydicom-%23191919?style=for-the-badge&logo=python)](Link_A_Tu_Pagina_De_Pydicom)
-[![Keras](https://img.shields.io/badge/Keras-%23D00000?style=for-the-badge&logo=keras)](Link_A_Tu_Pagina_De_Keras)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow)](Link_To_Your_TensorFlow_Page)
+[![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy)](Link_To_Your_NumPy_Page)
+[![tqdm](https://img.shields.io/badge/tqdm-%23000000?style=for-the-badge&logo=tqdm)](Link_To_Your_tqdm_Page)
+[![scikit-learn](https://img.shields.io/badge/scikit_learn-%23191919?style=for-the-badge&logo=scikit-learn)](Link_To_Your_scikit_learn_Page)
+[![OpenCV](https://img.shields.io/badge/OpenCV-%23FD8C00?style=for-the-badge&logo=opencv)](Link_To_Your_OpenCV_Page)
+[![Pydicom](https://img.shields.io/badge/Pydicom-%23191919?style=for-the-badge&logo=python)](Link_To_Your_Pydicom_Page)
+[![Keras](https://img.shields.io/badge/Keras-%23D00000?style=for-the-badge&logo=keras)](Link_To_Your_Keras_Page)
  
 
 
-## 📊 Estructura del conjunto de datos
+## 📊 Dataset Structure
 
-El conjunto de datos está organizado en dos carpetas principales:
+The dataset is organized into two main folders:
 
-1. **Imágenes JPEG (.jpg) 📷**: Contiene imágenes de escaneos cerebrales de TC en formato JPEG.
-2. **Archivos DICOM (.dcm) 📁**: Contiene los mismos escaneos de TC pero en formato Digital Imaging and Communications in Medicine (DICOM).
+1. **JPEG Images (.jpg) 📷**: Contains CT brain scan images in JPEG format.
+2. **DICOM Files (.dcm) 📁**: Contains the same CT scans but in Digital Imaging and Communications in Medicine (DICOM) format.
 
-## Requisitos
+## Requirements
 
-Para ejecutar este proyecto, necesitarás seguir los siguientes pasos:
+To run this project, you'll need to follow these steps:
 
-1. **Descargar el conjunto de datos:**
-   - Visita la página del conjunto de datos en Kaggle: [CT Scan Images of the Brain](https://www.kaggle.com/datasets/trainingdatapro/computed-tomography-ct-of-the-brain) y descárgatelo.
+1. **Download the dataset:**
+   - Visit the dataset page on Kaggle: [CT Scan Images of the Brain](https://www.kaggle.com/datasets/trainingdatapro/computed-tomography-ct-of-the-brain) and download it.
 
-2. **Descomprimir y sobrescribir el archivo "archive":**
-   - Descomprime el archivo ZIP descargado.
-   - Localiza el archivo llamado "archive" 🗃️ y sobrescribe este archivo del proyecto.
+2. **Unzip and overwrite the "archive" file:**
+   - Unzip the downloaded ZIP file.
+   - Locate the file named "archive" 🗃️ and overwrite this project's file.
 
-## Empezar
+## Getting Started
 
-1. Clona este repositorio:
+1. Clone this repository:
 
    ```bash
      git clone https://github.com/AlejandroDavidArzolaSaavedra/CNN-CT-BRAIN.git
    ```
 
-2. Explora las carpetas del conjunto de datos para entender la estructura.
+2. Explore the dataset folders to understand the structure.
 
-3. Utiliza los datos para entrenar y probar tus modelos, y contribuye al avance en el análisis de imágenes médicas.
+3. Use the data to train and test your models and contribute to advancing medical image analysis.
 
-# 🤝 Contribuciones
+# 🤝 Contributions
 <img align="left" width="200" height="180" src="https://github.com/AlejandroDavidArzolaSaavedra/CNN-CT-BRAIN/assets/90756437/3bf833fa-828e-467c-89b8-0ea4a077d3ea"></a>
-Si deseas contribuir a este proyecto, siéntete libre de hacerlo. Puedes abrir problemas (issues) o enviar solicitudes de extracción (pull requests) para mejorar el código o agregar nuevas características. ¡Tu colaboración es bienvenida! 🚀
+If you wish to contribute to this project, feel free to do so. You can open issues or send pull requests to improve the code or add new features. Your collaboration is welcome! 🚀
