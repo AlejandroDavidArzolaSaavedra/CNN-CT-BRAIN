@@ -61,9 +61,9 @@ This dataset provides a valuable source of information for researchers and devel
 [![tqdm](https://img.shields.io/badge/tqdm-%23000000?style=for-the-badge&logo=tqdm)](Link_To_Your_tqdm_Page)
 [![scikit-learn](https://img.shields.io/badge/scikit_learn-%23191919?style=for-the-badge&logo=scikit-learn)](Link_To_Your_scikit_learn_Page)
 [![OpenCV](https://img.shields.io/badge/OpenCV-%23FD8C00?style=for-the-badge&logo=opencv)](Link_To_Your_OpenCV_Page)
-[![Pydicom](https://img.shields.io/badge/Pydicom-%23191919?style=for-the-badge&logo=python)](Link_To_Your_Pydicom_Page)
-[![Keras](https://img.shields.io/badge/Keras-%23D00000?style=for-the-badge&logo=keras)](Link_To_Your_Keras_Page)
- 
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23FF6400?style=for-the-badge&logo=matplotlib&logoColor=white)](Link_To_Your_Matplotlib_Page)
+[![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas)](Link_To_Your_Pandas_Page)
+
 
 
 ## 📊 Dataset Structure
