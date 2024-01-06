@@ -9,11 +9,11 @@
 ## 👩‍🔬 Cancer, Tumor, and Aneurysm Classification and Detection
 
 <img align="left" width="250" height="180" src="https://i.imgur.com/RsmO2hP.gif?raw=true"></a>
-This repository contains the implementation of VGG16 and RESNET50 models, techniques such as fine-tuning with layer freezing and unfreezing were applied. 
+This repository contains the implementation of <strong>VGG16</strong> and <strong>RESNET50</strong> models, techniques such as <strong>fine-tuning</strong> with layer <strong>freezing and unfreezing</strong> were applied. 
 
-Regularization methods like L1 and L2, dropout, and early stopping were employed to prevent overfitting. 
+<strong>Regularization</strong> methods like L1 and L2, <strong>dropout</strong>, and <strong>early stopping</strong> were employed to prevent overfitting. 
 
-Strategies such as data augmentation and one-hot encoding were integrated, and optimization was carried out using algorithms like Adam. 
+Strategies such as data augmentation and <strong>one-hot encoding</strong> were integrated, and optimization was carried out using algorithms like <strong>Adam</strong>. 
 
 <br>
 
@@ -49,15 +49,6 @@ This project focuses on developing a classification model to detect brain diseas
 </table> 
 <br>
 
-## Usage
-
-This dataset provides a valuable source of information for researchers and developers interested in medical image analysis and brain disease detection. Some potential uses include:
-
-- Evaluation of Machine Learning Model Performance
-- Training and Fine-Tuning Deep Learning Models
-- Experimentation with Deep Learning Techniques
-
-
 ## 📖 CNN-CT-BRAIN Libraries 
 
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow)](Link_To_Your_TensorFlow_Page)
@@ -79,7 +70,7 @@ The dataset is organized into two main folders:
 
 ## Requirements
 
-To run this project, you'll need to follow these steps:
+To run this project, please follow these steps:
 
 1. **Download the dataset:**
    - Visit the dataset page on Kaggle: [CT Scan Images of the Brain](https://www.kaggle.com/datasets/trainingdatapro/computed-tomography-ct-of-the-brain) and download it.
@@ -88,6 +79,17 @@ To run this project, you'll need to follow these steps:
    - Unzip the downloaded ZIP file.
    - Locate the file named "archive" 🗃️ and overwrite this project's file.
 
+### For Local Execution:
+   - If running locally, ensure the dataset is in the project directory.
+
+### For Google Colab:
+   - If using Google Colab, upload the dataset to your Google Drive.
+   - Modify the `base_dir` in the code to point to the Colab Notebooks📂 directory:
+
+     ```python
+     base_dir = "/content/drive/MyDrive/Colab Notebooks/"
+     ```
+     
 ## Getting Started
 
 1. Clone this repository:
