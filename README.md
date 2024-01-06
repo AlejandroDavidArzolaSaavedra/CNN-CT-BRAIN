@@ -15,8 +15,6 @@ Regularization methods like L1 and L2, dropout, and early stopping were employed
 
 Strategies such as data augmentation and one-hot encoding were integrated, and optimization was carried out using algorithms like Adam. 
 
-Model evaluation involved the use of confusion matrix, offering a detailed insight into the performance of brain disease classification.
-
 <br>
 
 # 👥 Development Team (Ctrl + Click to view profiles)
