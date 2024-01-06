@@ -9,7 +9,11 @@
 ## 👩‍🔬 Cancer, Tumor, and Aneurysm Classification and Detection
 
 <img align="left" width="250" height="180" src="https://i.imgur.com/RsmO2hP.gif?raw=true"></a>
-This repository contains the implementation of VGG16 and RESNET50 models, techniques such as fine-tuning with layer freezing and unfreezing were applied. Regularization methods like L1 and L2, dropout, and early stopping were employed to prevent overfitting. Strategies such as data augmentation and one-hot encoding were integrated, and optimization was carried out using algorithms like Adam. 
+This repository contains the implementation of VGG16 and RESNET50 models, techniques such as fine-tuning with layer freezing and unfreezing were applied. 
+
+Regularization methods like L1 and L2, dropout, and early stopping were employed to prevent overfitting. 
+
+Strategies such as data augmentation and one-hot encoding were integrated, and optimization was carried out using algorithms like Adam. 
 
 Model evaluation involved the use of confusion matrix, offering a detailed insight into the performance of brain disease classification.
 
