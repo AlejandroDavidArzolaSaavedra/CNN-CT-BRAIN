@@ -9,7 +9,7 @@
 ## 👩‍🔬 Cancer, Tumor, and Aneurysm Classification and Detection
 
 <img align="left" width="250" height="180" src="https://i.imgur.com/RsmO2hP.gif?raw=true"></a>
-This repository contains the implementation of <strong>VGG16</strong> and <strong>RESNET50</strong> models, techniques such as <strong>fine-tuning</strong> with layer <strong>freezing and unfreezing</strong> were applied. 
+This repository contains the implementation of <strong>VGG16</strong> and <strong>ResNet-50</strong> models, techniques such as <strong>fine-tuning</strong> with layer <strong>freezing and unfreezing</strong> were applied. 
 
 <strong>Regularization</strong> methods like L1 and L2, <strong>dropout</strong>, and <strong>early stopping</strong> were employed to prevent overfitting. 
 
@@ -58,11 +58,6 @@ This project focuses on developing a classification model to detect brain diseas
 [![OpenCV](https://img.shields.io/badge/OpenCV-%23FD8C00?style=for-the-badge&logo=opencv)](Link_To_Your_OpenCV_Page)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23FF6400?style=for-the-badge&logo=matplotlib&logoColor=white)](Link_To_Your_Matplotlib_Page)
 [![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas)](Link_To_Your_Pandas_Page)
-
-<br>
-
-## 🏗️ Architecture
-<p align="center"><img  width="600px" src="https://github.com/AlejandroDavidArzolaSaavedra/CNN-CT-BRAIN/assets/90756437/b135188d-3e5f-4ac9-95bd-fe1fecf27ba4"></p>
 
 ## 📊 Dataset Structure
 
