@@ -9,9 +9,11 @@
 ## 👩‍🔬 Cancer, Tumor, and Aneurysm Classification and Detection
 
 <img align="left" width="250" height="180" src="https://i.imgur.com/RsmO2hP.gif?raw=true"></a>
-This repository contains a dataset of computed tomography (CT) brain scans designed to facilitate research in neurology, radiology, and oncology. The dataset provides detailed brain images captured through CT scans.
+This repository contains the implementation of VGG16 and RESNET50 models, techniques such as fine-tuning with layer freezing and unfreezing were applied. Regularization methods like L1 and L2, dropout, and early stopping were employed to prevent overfitting. Strategies such as data augmentation and one-hot encoding were integrated, and optimization was carried out using algorithms like Adam. 
 
-<br><br><br>
+Model evaluation involved the use of confusion matrix, offering a detailed insight into the performance of brain disease classification.
+
+<br>
 
 # 👥 Development Team (Ctrl + Click to view profiles)
 
@@ -39,7 +41,7 @@ This project focuses on developing a classification model to detect brain diseas
     <h3 align="center"> Scan of a person with aneurysm, cancer, and tumor</h3>
     <div align="center">
       <a href="https://github.com/AlejandroDavidArzolaSaavedra/CNN-CT-BRAIN" target="_blank"><img width="800" src="https://github.com/AlejandroDavidArzolaSaavedra/CNN-CT-BRAIN/assets/90756437/645c003c-fd45-4f31-9152-0ef1f7c3f0dc" width="400" alt="Scan of a person with aneurysm, cancer, and tumor"></a>
-      <p>Our focus on image processing allows us to provide accurate diagnosis, facilitating timely and effective treatment to improve patient health 🩺</p>
+      <p>Our focus on image processing allows us to provide accurate diagnosis 🩺</p>
     </div>
   </td>                                                    
 </table> 
