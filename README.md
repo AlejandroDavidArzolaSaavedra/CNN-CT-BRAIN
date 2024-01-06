@@ -59,7 +59,10 @@ This project focuses on developing a classification model to detect brain diseas
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23FF6400?style=for-the-badge&logo=matplotlib&logoColor=white)](Link_To_Your_Matplotlib_Page)
 [![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas)](Link_To_Your_Pandas_Page)
 
+<br>
 
+## 🏗️ Architecture
+<p align="center"><img  width="600px" src="https://github.com/AlejandroDavidArzolaSaavedra/CNN-CT-BRAIN/assets/90756437/b135188d-3e5f-4ac9-95bd-fe1fecf27ba4"></p>
 
 ## 📊 Dataset Structure
 
