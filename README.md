@@ -13,7 +13,7 @@ This repository contains the implementation of <strong>VGG16</strong> and <stron
 
 <strong>Regularization</strong> methods like L1 and L2, <strong>dropout</strong>, and <strong>early stopping</strong> were employed to prevent overfitting. 
 
-Strategies such as data augmentation and <strong>one-hot encoding</strong> were integrated, and optimization was carried out using algorithms like <strong>Adam</strong>. 
+Strategies such as <strong>data augmentation</strong>, <strong>transfer learning</strong> and <strong>one-hot encoding</strong> were integrated, and optimization was carried out using algorithms like <strong>Adam</strong>. 
 
 <br>
 
