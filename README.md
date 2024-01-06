@@ -28,14 +28,6 @@ Strategies such as <strong>data augmentation</strong>, <strong>transfer learning
 This project focuses on developing a classification model to detect brain diseases, such as cancer, tumors, and aneurysms, from CT brain scans.
 </p>
 
-### 💉 Types of Brain Diseases in the Dataset
-
-1. **Cancer**: CT scans showing manifestations of cancer in the brain.
-
-2. **Tumor**: Detailed images capturing the presence of tumors in the brain.
-
-3. **Aneurysm**: Scans highlighting cases of aneurysms in the brain.
-
 <br>
 <table align="center">
   <tr>
