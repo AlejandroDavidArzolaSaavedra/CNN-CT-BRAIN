@@ -93,5 +93,5 @@ To run this project, please follow these steps:
 3. Use the data to train and test your models and contribute to advancing medical image analysis.
 
 # 🤝 Contributions
-<img align="left" width="200" height="180" src="https://github.com/AlejandroDavidArzolaSaavedra/CNN-CT-BRAIN/assets/90756437/3bf833fa-828e-467c-89b8-0ea4a077d3ea"></a>
+<img align="left" width="200" height="180" src="https://github.com/AlejandroDavidArzolaSaavedra/CNN-CT-BRAIN/assets/90756437/3bf833fa-828e-467c-89b8-0ea4a077d3ea">
 If you wish to contribute to this project, feel free to do so. You can open issues or send pull requests to improve the code. Your collaboration is welcome! 🚀
